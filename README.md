@@ -1,4 +1,4 @@
-### Olá mundo! Eu sou o Gabriel ou GB, Seja bem vindo(a).
+### Olá mundo! Eu sou o Gabriel ou GB, Sejam bem vindxs!
 
  - Estou cursando Sistemas de Informação
  - Atualmente sou desenvolvedor Front-end
