@@ -15,7 +15,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  height="150" margin="20"style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/89982150?v=4">
+  <img align="right"  height="140" margin="40" border-radius="100%" src="https://avatars.githubusercontent.com/u/89982150?v=4">
 </div>
   
   
