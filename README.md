@@ -5,7 +5,7 @@
  - Tenho conhecimentos em HTML, CSS e JS
  - E-mail: Gabriel.bernardino@urca.br
  
- [![gabrielolivra GitHub stats](https://github-readme-stats.vercel.app/api?username=astyn9)](https://github.com/gabrielolivra/github-readme-stats)
+ [![gabrielolivra GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielolivra)](https://github.com/gabrielolivra/github-readme-stats)
  
 
 
